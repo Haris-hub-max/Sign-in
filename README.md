@@ -25,7 +25,7 @@
 </p>
 <div>
 <button id="btn1">
-<a href="page2.html"> sign in</a>
+<a href="Page2.html"> sign in</a>
 </button>
 </div><br/>
 <div>
